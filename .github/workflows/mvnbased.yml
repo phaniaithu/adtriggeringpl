@@ -19,4 +19,4 @@ jobs:
           with:
             azure-devops-project-url: https://dev.azure.com/aithuphanindra/AZUREPROJECT1
             azure-pipeline-name: 'maven AZUREPROJECT1-CI'
-            azure-devops-token: ${{ secrets.Phani's PAT1 }}
+            azure-devops-token: ${{ secrets.AZURE_DEVOPS_TOKEN }}
